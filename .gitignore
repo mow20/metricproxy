@@ -5,3 +5,5 @@ metricproxy.pid
 /metricproxy
 /sf
 /.go
+local-config/
+local-log/
